@@ -26,7 +26,7 @@ A comprehensive CPU scheduling simulator built with Python and Streamlit that de
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd os-varun
+cd os
 ```
 
 2. Create a virtual environment:
@@ -61,7 +61,7 @@ Then:
 ## Project Structure
 
 ```
-os-varun/
+os-/
 ├── app.py              # Streamlit frontend
 ├── scheduler.py        # Core scheduling algorithms
 ├── requirements.txt    # Python dependencies
